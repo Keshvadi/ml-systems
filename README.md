@@ -1,3 +1,7 @@
-# Machine Learning for Computer Systems
+# Machine Learning for Computer Network Systems
 
-Welcome to the Machine Learning for Computer Systems Course
+## Course Description
+
+### Lectures
+
+### Labs
